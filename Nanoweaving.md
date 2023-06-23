@@ -1,0 +1,3 @@
+Nanoweaving takes advantages of nanites to enact effects that are often near magical.  Nanites are small, microscopic machines that receive energy and commands from a nearby controller unit.  Different effects require different NPUs or Nanite Process Units to control the nanites.  Nanites can be projected into a local magnetic field easily, but extending this range is incredibly difficult.  Nanites are also simple machines with no loyalty.  They will simply follow the orders of the strongest signal they are receiving. This means that using nanites over range is often quite difficult, unless there is no competing signal trying to control the nanites.
+
+Those dedicated to nanoweaving can unleash powerful effects, but often 

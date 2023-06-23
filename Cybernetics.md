@@ -1,0 +1,1 @@
+Notes: Cybernetics will give 1, non stacking auto success on skills in many cases.  The existence of being able to get this +1 should be obvious in a "t-shirt and shorts" visual inspection.

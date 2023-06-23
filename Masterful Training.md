@@ -1,0 +1,1 @@
+Masterful training represents finding and learning an ability from a master of that ability.  This could be learning the kung-fu master's secret technique, or it could be that trick to hacking.
